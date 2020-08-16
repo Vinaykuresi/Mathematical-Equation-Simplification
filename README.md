@@ -1,7 +1,10 @@
 # Mathematical-Equation-Simplification
 Mathematical Equation Simplification Coding Nodejs JavaScript( Simplifying the equation given through JSON 
 
-Equation Simplification
+##### Equation Simplification
+
+![picture](Pictures/math_expression.PNG)
+
 You will be given a JSON file as an input. This file will contain a equation in a structured format
 like this:
 {
@@ -40,8 +43,11 @@ Notes:
 ○ RHS will always be a fixed number
 ○ LHS can be complex. But there will only be a single variable reference (x) that
 occurs somewhere in the LHS. All other leaf nodes will be fixed numbers.
-Imagine the following scenario:
-Once upon a time there was a tavern with 1000 beer taps, numbered from 1 to 1000.
+
+
+# Imagine the following scenario:
+
+##### Once upon a time there was a tavern with 1000 beer taps, numbered from 1 to 1000.
 You were told by a mysterious stranger that the best beers are the one with the taps
 whose number matches those 2 conditions:
 1) The sum of divisors (including 1, but not the number itself) of the tap number is
