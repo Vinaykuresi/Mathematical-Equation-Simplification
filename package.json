@@ -1,0 +1,19 @@
+{
+  "name": "mathematical-expression",
+  "version": "1.0.0",
+  "description": "Equation Simplification Coding from BigApp Technology",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinaykuresi/Mathematical-Equation-Simplification.git"
+  },
+  "author": "Vinay Kumar Kuresi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vinaykuresi/Mathematical-Equation-Simplification/issues"
+  },
+  "homepage": "https://github.com/Vinaykuresi/Mathematical-Equation-Simplification#readme"
+}
