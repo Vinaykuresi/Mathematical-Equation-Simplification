@@ -32,13 +32,19 @@ other side. In this example, a transformed expression can be: x = (21 − 1) / 1
 You should then print this simplified expression
 3. Bonus: Evaluate the expression on the other side and find the value of ‘x’.
 For our input files, assume that ‘x’ is always solvable.
+
 Notes:
+
 ● The operations possible are: add, subtract, multiply, divide, and equal
+
 ● Each operation will have a LHS and a RHS. The LHS / RHS of a operation can be:
+
 ○ another operation,
 ○ Or a fixed number,
 ○ Or a variable reference
+
 ● The input files will be limited to have the following characteristics:
+
 ○ Top level operation will always be ‘equal’
 ○ RHS will always be a fixed number
 ○ LHS can be complex. But there will only be a single variable reference (x) that
